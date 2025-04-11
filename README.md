@@ -7,6 +7,9 @@ Me chamo Richard Elias, tenho 19 anos e sou natural de São Paulo. Concluí o en
 <p align="left">
 
 <a href="https://github.com/richardbr95?tab=followers">
+<a href="https://www.instagram.com/richadoficial/"><img src="https://img.shields.io/badge/-@richardoficial_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/richard-elias-85203b28a/"><img src="https://img.shields.io/badge/-Richard%20Elias-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:richard.rejjeri25@gmail.com"><img src="https://img.shields.io/badge/-richard.rejjeri25@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
