@@ -32,9 +32,6 @@ Me chamo Richard Elias, tenho 19 anos e sou natural de São Paulo. Concluí o en
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 
-<br/>
-<br/>
-
 ### 📊 Estatísticas
 
 <p>
