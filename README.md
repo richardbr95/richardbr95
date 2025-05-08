@@ -1,6 +1,6 @@
 # 🐱‍👤 Richard Elias
 
-**`Desenvolvedor Front-End`**
+**`Desenvolvedor Full-stack`**
 
 Me chamo Richard Elias, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio na ETEC, com o curso técnico em Desenvolvimento de Sistemas. Atualmente, estou cursando Ciências da Computação na FAM. Sou apaixonado por tecnologia e compartilho meu conhecimento aqui no github. Atualizações e Metas de 2025: Fundamentos Saas ( fullstack )
 
