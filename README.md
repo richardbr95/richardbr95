@@ -26,7 +26,9 @@ Me chamo Richard Elias, tenho 19 anos e sou natural de São Paulo. Concluí o en
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=7952B3)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwindcss&logoColor=06B6D4)
 
 <h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
 
