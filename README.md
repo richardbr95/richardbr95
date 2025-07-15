@@ -1,4 +1,4 @@
-# 🐱‍👤 Richard Elias
+# Richard Elias
 
 **`Desenvolvedor Full-stack`**
 
