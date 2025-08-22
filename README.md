@@ -19,7 +19,7 @@ Me chamo Richard Elias, tenho 19 anos moro em São Paulo. Concluí o ensino méd
 
 ---
 
-<h2> 🛠 &nbsp;Tech Stack</h2>
+h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
@@ -28,6 +28,7 @@ Me chamo Richard Elias, tenho 19 anos moro em São Paulo. Concluí o ensino méd
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=7952B3)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwindcss&logoColor=06B6D4)
 
 <h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
@@ -35,24 +36,20 @@ Me chamo Richard Elias, tenho 19 anos moro em São Paulo. Concluí o ensino méd
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-333333?logo=express&logoColor=fff&style=flat)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 ### 📊 Estatísticas
 
-<p>
+<div align="left">
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=richardbr95&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardbr95&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    alt="Top Langs" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardbr95&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
-</p>
+</div>
