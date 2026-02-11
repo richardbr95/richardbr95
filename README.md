@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full-stack`**
 
-Me chamo Richard Elias, tenho 19 anos moro em São Paulo. Concluí o ensino médio na ETEC, com o curso técnico em Desenvolvimento de Sistemas. Atualmente estou cursando Ciências da Computação na FAM. Aqui no github compartilho meu conhecimento e minhas habilidades técnicas. Atualizações e Metas de 2026: ( Nodejs + React + TypeScript ) 
+Me chamo Richard Elias, tenho 19 anos da região de São Paulo. Concluí o ensino médio na ETEC, com o curso técnico em Desenvolvimento de Sistemas. Atualmente estou cursando Ciências da Computação na FAM. Aqui no github compartilho meu conhecimento e minhas habilidades técnicas. Atualizações e Metas de 2026: ( Nodejs + React + TypeScript ) 
 
 <p align="left">
 
