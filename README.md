@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full-stack`**
 
-Me chamo Richard Elias, tenho 19 anos moro em São Paulo. Concluí o ensino médio na ETEC, com o curso técnico em Desenvolvimento de Sistemas. Atualmente estou cursando Ciências da Computação na FAM. Aqui no github compartilho meu conhecimento e minhas habilidades técnicas. Atualizações e Metas de 2026: ( fullstack + React ) 
+Me chamo Richard Elias, tenho 19 anos moro em São Paulo. Concluí o ensino médio na ETEC, com o curso técnico em Desenvolvimento de Sistemas. Atualmente estou cursando Ciências da Computação na FAM. Aqui no github compartilho meu conhecimento e minhas habilidades técnicas. Atualizações e Metas de 2026: ( Nodejs + React + TypeScript ) 
 
 <p align="left">
 
@@ -42,14 +42,7 @@ h2> 🛠 &nbsp;Tech Stack</h2>
 ### 📊 Estatísticas
 
 <div align="left">
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-src="https://github-readme-stats.vercel.app/api?username=richardbr95&show_icons=true&theme=transparent"
-  />
-  <img 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardbr95&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+
+<img height="200" src="https://streak-stats.demolab.com?user=richardbr95&theme=tokyonight" />
+
 </div>
