@@ -43,6 +43,6 @@ h2> 🛠 &nbsp;Tech Stack</h2>
 
 <div align="left">
 
-<img height="200" src="https://streak-stats.demolab.com?user=richardbr95&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=richardbr95&theme=tokyonight" />
 
 </div>
